@@ -40,11 +40,11 @@ function Document() {
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "keywords",
-                        content: "Tony - Portfolio Template"
+                        content: "Damario Portfolio"
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "description",
-                        content: "Tony - Portfolio Template"
+                        content: "Damario's personal website"
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("title", {
                         children: "Damario Hamilton"

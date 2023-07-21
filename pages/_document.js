@@ -12,8 +12,8 @@ export default function Document() {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <meta name="keywords" content="Tony - Portfolio Template" />
-        <meta name="description" content="Tony - Portfolio Template" />
+        <meta name="keywords" content="Damario Portfolio" />
+        <meta name="description" content="Damario's personal website" />
         {/* title */}
         <title>Damario Hamilton</title>
         {/* Favicon */}
