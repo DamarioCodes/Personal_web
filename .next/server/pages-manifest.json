@@ -1,14 +1,14 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/index-01": "pages/index-01.html",
   "/index-03": "pages/index-03.html",
-  "/api/hello": "pages/api/hello.js",
+  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/index-old": "pages/index-old.html",
+  "/index-01": "pages/index-01.html",
+  "/index-06": "pages/index-06.html",
   "/index-05": "pages/index-05.html",
   "/index-04": "pages/index-04.html",
-  "/index-old": "pages/index-old.html",
-  "/index-06": "pages/index-06.html",
+  "/api/hello": "pages/api/hello.js",
   "/": "pages/index.html",
   "/404": "pages/404.html"
 }

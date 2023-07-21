@@ -175,8 +175,6 @@ const Contact = () => {
                 <p>
                   Mobile : 352-573-4995
                   <br />
-                  Office: +004 44444 44444
-                  <br />
                 </p>
               </div>
             </div>

@@ -20,10 +20,11 @@ const Index2 = () => {
       <section
         id="home"
         className="home-banner-02 bg-cover bg-center bg-no-repeat"
+        style={{ backgroundImage: "url(static/img/bg2.jpg)" }}
       >
-        <div className="video-bg-container">
-          <video src="static/video/video3.mp4" autoPlay loop muted />
-        </div>
+        <div id="particles-box" className="particles-box">
+      <ParticlesBackground />
+    </div>
         <div className="container">
           <div className="row full-screen align-items-center p-100px-tb">
             <div className="col-12">
