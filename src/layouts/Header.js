@@ -19,7 +19,7 @@ const Header = ({ headerColor, isTransparent }) => {
           <div className="container">
             {/* Brand */}
             <a className="navbar-brand" href="index.html">
-              Tony <span className="theme-bg" />
+              D-codes <span className="theme-bg" />
             </a>
             {/* / */}
             {/* Mobile Toggle */}
@@ -48,12 +48,12 @@ const Header = ({ headerColor, isTransparent }) => {
                 </li>
                 <li>
                   <a className="nav-link" href="#about">
-                    About Us
+                    About Me
                   </a>
                 </li>
                 <li>
                   <a className="nav-link" href="#services">
-                    services
+                    My approach
                   </a>
                 </li>
                 <li>
@@ -62,13 +62,8 @@ const Header = ({ headerColor, isTransparent }) => {
                   </a>
                 </li>
                 <li>
-                  <a className="nav-link" href="#blog">
-                    Blog
-                  </a>
-                </li>
-                <li>
                   <a className="nav-link" href="#contactus">
-                    Contact
+                    Contact ME
                   </a>
                 </li>
               </ul>

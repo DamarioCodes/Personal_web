@@ -49,14 +49,14 @@ const Contact = () => {
 
   console.log(error);
   return (
-    <section id="contactus" className="section gray-bg">
+    <section id="contactus" className="section white-bg">
       <div className="container">
         <div className="row sm-m-25px-b m-35px-b">
           <div className="col-md-12">
             <div className="section-title">
               <h3 className="dark-color text-uppercase">Get in touch</h3>
               <p className="text-uppercase small">
-                A Lead UX &amp; UI designer based in Canada
+                Don't be afraid to reach out !
               </p>
             </div>
           </div>
@@ -160,9 +160,9 @@ const Contact = () => {
                 <i className="ti-location-pin" />
               </div>
               <div className="media-body">
-                <h6 className="dark-color font-alt">Our Address</h6>
+                <h6 className="dark-color font-alt">My Address</h6>
                 <p>
-                  123 Stree New York City , United States Of America 750065.
+                  Margate Fl, United State of America 33063
                 </p>
               </div>
             </div>
@@ -171,9 +171,9 @@ const Contact = () => {
                 <i className="ti-mobile" />
               </div>
               <div className="media-body">
-                <h6 className="dark-color font-alt">Our Phone</h6>
+                <h6 className="dark-color font-alt">Phone</h6>
                 <p>
-                  Office: +004 44444 44444
+                  Mobile : 352-573-4995
                   <br />
                   Office: +004 44444 44444
                   <br />
@@ -185,11 +185,11 @@ const Contact = () => {
                 <i className="ti-email" />
               </div>
               <div className="media-body">
-                <h6 className="dark-color font-alt">Our Email</h6>
+                <h6 className="dark-color font-alt"> Email</h6>
                 <p>
-                  info@domainname.com
+                  damariohamilton123@gmail.com
                   <br />
-                  contact@domainname.com
+                  ddh69@case.edu
                 </p>
               </div>
             </div>

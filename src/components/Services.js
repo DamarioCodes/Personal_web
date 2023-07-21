@@ -5,9 +5,9 @@ const Services = () => {
         <div className="row sm-m-25px-b m-35px-b">
           <div className="col-md-12">
             <div className="section-title">
-              <h3 className="dark-color text-uppercase">My Services</h3>
+              <h3 className="dark-color text-uppercase">My Approach</h3>
               <p className="text-uppercase small">
-                A Lead UX &amp; UI designer based in Canada
+                A look at my development goals
               </p>
             </div>
           </div>
@@ -20,10 +20,9 @@ const Services = () => {
                 <i className="icon-desktop" />
               </div>
               <div className="feature-content">
-                <h5>Unique design</h5>
+                <h5>Clean Code</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                 I value writing clean, precise code that allows for easier collaboration and maintainablity in the long-term.
                 </p>
               </div>
             </div>
@@ -36,10 +35,9 @@ const Services = () => {
                 <i className="icon-pricetags" />
               </div>
               <div className="feature-content">
-                <h5>Different Layout</h5>
+                <h5>Performance Optimization</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                I try to implement code that are free of redundancies and I make it my duty to improve inefficiencies where i can.
                 </p>
               </div>
             </div>
@@ -52,10 +50,9 @@ const Services = () => {
                 <i className="icon-chat" />
               </div>
               <div className="feature-content">
-                <h5>Make it Simple</h5>
+                <h5>Communication and Collaboration</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                I belive open communication and teamworking is cruical and I welcome collaboration wherever possible.
                 </p>
               </div>
             </div>
@@ -68,10 +65,9 @@ const Services = () => {
                 <i className="icon-mobile" />
               </div>
               <div className="feature-content">
-                <h5>Responsiveness</h5>
+                <h5>Always Learning</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                I love to learn and I belive that I will always be honing my skills to become a better engineer.
                 </p>
               </div>
             </div>
@@ -86,8 +82,7 @@ const Services = () => {
               <div className="feature-content">
                 <h5>Testing for Perfection</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                I value the testing process and ensuring that my works meets all the necessary specifications.
                 </p>
               </div>
             </div>
@@ -100,10 +95,9 @@ const Services = () => {
                 <i className="icon-tools-2" />
               </div>
               <div className="feature-content">
-                <h5>Advanced Options</h5>
+                <h5>Problem Solving</h5>
                 <p>
-                  I design and develop services for customers of all sizes,
-                  specializing in creating stylish, modern websites.
+                I belive problem solving is both a systematic and creative process and I use various methods to come up with effective solutions.
                 </p>
               </div>
             </div>

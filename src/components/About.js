@@ -7,7 +7,7 @@ const About = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">ABOUT ME</h3>
               <p className="text-uppercase small">
-                A Lead UX &amp; UI designer based in Canada
+                 A computer science student
               </p>
             </div>
           </div>
@@ -18,68 +18,65 @@ const About = () => {
               <img src="static/img/about-us.jpg" alt="image" />
               <div className="nav social-icon">
                 <a href="#">
-                  <i className="fab fa-facebook-f" />
-                </a>
-                <a href="#">
-                  <i className="fab fa-twitter" />
-                </a>
-                <a href="#">
                   <i className="fab fa-instagram" />
                 </a>
                 <a href="#">
                   <i className="fab fa-linkedin-in" />
                 </a>
+                <a href="#"> 
+              <i className="fab fa-github"></i> 
+              </a>
               </div>
             </div>
           </div>
           <div className="col-lg-7 m-15px-tb">
             <div className="about-me">
-              <h4>I'M Tony Smith</h4>
+              <h4> Damario Hamilton</h4>
               <h6>
-                A Lead <span className="theme-color">UX &amp; UI</span> designer
-                based in <span className="theme-color">Canada</span>
+                <span className="theme-color"> Software engineer  </span> 
+                
               </h6>
               <p>
-                I design and develop services for customers of all sizes,
-                specializing in creating stylish, modern websites, web services
-                and online stores. My passion is to design digital user
-                experiences through the bold interface and meaningful
-                interactions. Check out my Portfolio
+                With a strong foundation in programming languages, algorithms, and software development principles, I tackle challenges with enthusiasm and grit. I have experience working on diverse projects, from web development to mobile applications and data analysis.
+                Beyond coding, I'm constantly exploring the latest tech advancements, participating in hackathons, and contributing to open-source projects. I believe in the power of software to make a positive impact on society.
+                Let's shape the future together!
+                Be sure to check out my <a className="port-link" href="#work">Portfolio</a>.
               </p>
+              
               <div className="row about-list">
                 <div className="col-md-6">
                   <div className="media">
                     <label>Birthday</label>
-                    <p>4th april 1991</p>
+                    <p>20th December 2001</p>
                   </div>
                   <div className="media">
                     <label>Age</label>
-                    <p>22 Yr</p>
+                    <p>21 Yr</p>
                   </div>
                   <div className="media">
                     <label>Residence</label>
-                    <p>Canada</p>
+                    <p> Oh, USA</p>
                   </div>
                   <div className="media">
                     <label>Address</label>
-                    <p>California, USA</p>
+                    <p>Fl, USA</p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="media">
                     <label>E-mail</label>
-                    <p>info@domain.com</p>
+                    <p>damariohamilton123@gmail.com</p>
                   </div>
                   <div className="media">
                     <label>Phone</label>
-                    <p>820-885-3321</p>
+                    <p>352-573-4995</p>
                   </div>
                   <div className="media">
-                    <label>Skype</label>
-                    <p>skype.0404</p>
+                    <label>School</label>
+                    <p>Case Western Reserve University</p>
                   </div>
                   <div className="media">
-                    <label>Freelance</label>
+                    <label>Occupation</label>
                     <p>Available</p>
                   </div>
                 </div>
