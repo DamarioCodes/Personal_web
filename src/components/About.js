@@ -52,7 +52,7 @@ const About = () => {
                   </div>
                   <div className="media">
                     <label>Age</label>
-                    <p>21 Yr</p>
+                    <p>22 Yr</p>
                   </div>
                   <div className="media">
                     <label>Residence</label>
