@@ -17,13 +17,14 @@ const About = () => {
             <div className="about-me-img box-shadow">
               <img src="static/img/about-us.jpg" alt="image" />
               <div className="nav social-icon">
-                <a href="#">
+               /** <a href="#">
                   <i className="fab fa-instagram" />
                 </a>
-                <a href="#">
+                **/
+                <a href="https://www.linkedin.com/in/damario-hamilton-809290287/">
                   <i className="fab fa-linkedin-in" />
                 </a>
-                <a href="#"> 
+                <a href="https://github.com/DamarioCodes"> 
               <i className="fab fa-github"></i> 
               </a>
               </div>
