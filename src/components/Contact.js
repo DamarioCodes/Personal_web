@@ -27,9 +27,9 @@ const Contact = () => {
       emailjs
         .send(
           "service_tpo9huo", // service id
-          "template_ph84s9n", // template id
+          "template_cxh0oxs", // template id
           mailData,
-          "dHiH6hZII_l555HxQ" // public key
+          "dHiH6hZII_l555HxQ"
         )
         .then(
           (response) => {
