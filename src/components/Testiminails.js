@@ -24,15 +24,13 @@ const Testiminails = () => {
               </div>
               <div className="media-body p-25px-l">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                  Damario has shown great potential excited to see what he does next.
                 </p>
                 <div className="tc-info">
                   <h6 className="font-alt dark-color font-w-600">
-                    Nancy Bayers
+                     anonymous
                   </h6>
-                  <span>Co-founder</span>
+                  <span>anonymous</span>
                 </div>
               </div>
             </div>
@@ -46,15 +44,13 @@ const Testiminails = () => {
               </div>
               <div className="media-body p-25px-l">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                 Damario work ethic is nothing to laugh at, he does his best to produce the best
                 </p>
                 <div className="tc-info">
                   <h6 className="font-alt dark-color font-w-600">
-                    Nancy Bayers
+                   Anonymous
                   </h6>
-                  <span>Co-founder</span>
+                  <span>Anonymous</span>
                 </div>
               </div>
             </div>
@@ -68,15 +64,13 @@ const Testiminails = () => {
               </div>
               <div className="media-body p-25px-l">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                 We had a project and Damario's skill put it to the next level
                 </p>
                 <div className="tc-info">
                   <h6 className="font-alt dark-color font-w-600">
-                    Nancy Bayers
+                    Anonymous
                   </h6>
-                  <span>Co-founder</span>
+                  <span>groupmate</span>
                 </div>
               </div>
             </div>
@@ -90,15 +84,13 @@ const Testiminails = () => {
               </div>
               <div className="media-body p-25px-l">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                 Damario changed my life with his exceptional coding skills
                 </p>
                 <div className="tc-info">
                   <h6 className="font-alt dark-color font-w-600">
-                    Nancy Bayers
+                   Izaiah Caston
                   </h6>
-                  <span>Co-founder</span>
+                  <span>Classmate</span>
                 </div>
               </div>
             </div>
