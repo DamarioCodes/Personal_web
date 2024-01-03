@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":1,"files":["../webpack-runtime.js","../../package.json","../../../node_modules/react/package.json","../../../node_modules/react/jsx-runtime.js","../../../node_modules/react/index.js","../../../node_modules/react/cjs/react-jsx-runtime.development.js","../../../node_modules/react/cjs/react-jsx-runtime.production.min.js","../../../node_modules/react/cjs/react.production.min.js","../../../node_modules/react/cjs/react.development.js","../../../package.json"]}
+=======
+{"version":1,"files":["../webpack-runtime.js","../../package.json","../../../node_modules/react/package.json","../../../node_modules/react/jsx-runtime.js","../../../node_modules/react/index.js","../../../node_modules/react/cjs/react-jsx-runtime.production.min.js","../../../node_modules/react/cjs/react-jsx-runtime.development.js","../../../node_modules/react/cjs/react.production.min.js","../../../node_modules/react/cjs/react.development.js","../../../package.json"]}
+>>>>>>> 693134609eeaf8c6b2d565c5f4fd057cde0328d8

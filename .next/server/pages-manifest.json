@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/_app": "pages/_app.js",
@@ -6,9 +7,18 @@
   "/api/hello": "pages/api/hello.js",
   "/index-04": "pages/index-04.html",
   "/index-03": "pages/index-03.html",
+=======
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/index-01": "pages/index-01.html",
+  "/index-03": "pages/index-03.html",
+  "/index-04": "pages/index-04.html",
+>>>>>>> 693134609eeaf8c6b2d565c5f4fd057cde0328d8
   "/index-05": "pages/index-05.html",
   "/index-06": "pages/index-06.html",
   "/index-old": "pages/index-old.html",
   "/": "pages/index.html",
+  "/_error": "pages/_error.js",
   "/404": "pages/404.html"
 }

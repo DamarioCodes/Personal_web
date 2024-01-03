@@ -5,8 +5,13 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
+<<<<<<< HEAD
     "static/Nni9EFWIWYFj3JNMiC44B/_buildManifest.js",
     "static/Nni9EFWIWYFj3JNMiC44B/_ssgManifest.js"
+=======
+    "static/pANLYEp8Oap0ZVGTkiUg-/_buildManifest.js",
+    "static/pANLYEp8Oap0ZVGTkiUg-/_ssgManifest.js"
+>>>>>>> 693134609eeaf8c6b2d565c5f4fd057cde0328d8
   ],
   "rootMainFiles": [],
   "pages": {
