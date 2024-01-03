@@ -42,85 +42,46 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/portfolio-1.jpg" alt="image" />
+                <img src="static/img/Screenshot 2023-12-31 at 11.57.56 PM (1).png" alt="image"/>
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>Full-Stack Invaders</h5>
+                <span>space invaders remake</span>
               </div>
-              <a className="link-overlay" href="#" />
+              <a className="link-overlay" href="https://github.com/DamarioCodes/full-stack-invaders-game" />
             </div>
           </div>{" "}
           {/* grid item */}
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/portfolio-6.jpg" alt="image" />
+                <img src="static/img/Screenshot 2024-01-01 at 1.38.17 AM.png" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>Front-End form</h5>
+                <span>Simple form </span>
               </div>
-              <a className="link-overlay" href="#" />
+              <a className="link-overlay" href="https://github.com/DamarioCodes/SimpleForm" />
             </div>
           </div>{" "}
           {/* grid item */}
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/portfolio-2.jpg" alt="image" />
+                <img src="static/img/Screenshot 2024-01-01 at 12.05.41 AM.png" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
+                <h5>To-do app</h5>
+                <span>basic to-do app </span>
               </div>
-              <a className="link-overlay" href="#" />
+              <a className="link-overlay" href="https://github.com/DamarioCodes/ToDoApp" />
             </div>
           </div>{" "}
-          {/* grid item */}
-          <div className="grid-item product branding">
-            <div className="portfolio-box-01">
-              <div className="portfolio-img">
-                <img src="static/img/portfolio-3.jpg" alt="image" />
-              </div>
-              <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
-              </div>
-              <a className="link-overlay" href="#" />
-            </div>
-          </div>{" "}
-          {/* grid item */}
-          <div className="grid-item product branding">
-            <div className="portfolio-box-01">
-              <div className="portfolio-img">
-                <img src="static/img/portfolio-4.jpg" alt="image" />
-              </div>
-              <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
-              </div>
-              <a className="link-overlay" href="#" />
-            </div>
-          </div>{" "}
-          {/* grid item */}
-          <div className="grid-item product branding">
-            <div className="portfolio-box-01">
-              <div className="portfolio-img">
-                <img src="static/img/portfolio-5.jpg" alt="image" />
-              </div>
-              <div className="portfolio-info">
-                <h5>Our Photography</h5>
-                <span>Design</span>
-              </div>
-              <a className="link-overlay" href="#" />
-            </div>
-          </div>{" "}
-          {/* grid item */}
+       
         </div>{" "}
         {/* portfolio-content */}
       </div>
     </section>
   );
 };
-export default Work;
+export default Work

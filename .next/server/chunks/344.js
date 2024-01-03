@@ -47,26 +47,20 @@ const About = ()=>{
                                 className: "about-me-img box-shadow",
                                 children: [
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
-                                        src: "static/img/about-us.jpg",
+                                        src: "static/img/IMG_20231224_142740_825.jpg",
                                         alt: "image"
                                     }),
                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                         className: "nav social-icon",
                                         children: [
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                href: "#",
-                                                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
-                                                    className: "fab fa-instagram"
-                                                })
-                                            }),
-                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                href: "#",
+                                                href: "https://www.linkedin.com/in/damario-hamilton-809290287/",
                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                     className: "fab fa-linkedin-in"
                                                 })
                                             }),
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                                href: "#",
+                                                href: "https://github.com/DamarioCodes",
                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                     className: "fab fa-github"
                                                 })
@@ -125,7 +119,7 @@ const About = ()=>{
                                                                 children: "Age"
                                                             }),
                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                                children: "21 Yr"
+                                                                children: "22 Yr"
                                                             })
                                                         ]
                                                     }),
@@ -208,8 +202,9 @@ const About = ()=>{
                                         className: "btn-bar",
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                             className: "m-btn m-btn-theme",
-                                            href: "#work",
-                                            children: "Download CV"
+                                            href: "https://drive.google.com/file/d/1ue5FjpsWsVYDDI6kYSwFP0kdIxYt8ggK/view?usp=sharing",
+                                            target: "_blank",
+                                            children: "View CV"
                                         })
                                     })
                                 ]
@@ -473,8 +468,7 @@ const Contact = ()=>{
         if (name.length === 0 || email.length === 0 || message.length === 0 || subject.length === 0) {
             setError(true);
         } else {
-            emailjs_com__WEBPACK_IMPORTED_MODULE_1___default().send("service_seruhwu", "template_21aw58z", mailData, "Q3pccdLZhU-mZT7tQ" // public api
-            ).then((response)=>{
+            emailjs_com__WEBPACK_IMPORTED_MODULE_1___default().send("service_tpo9huo", "template_cxh0oxs", mailData, "dHiH6hZII_l555HxQ").then((response)=>{
                 setError(false);
                 setSuccess(true);
                 setTimeout(()=>{
@@ -1232,17 +1226,17 @@ const Testiminails = ()=>{
                                         className: "media-body p-25px-l",
                                         children: [
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+                                                children: "Damario has shown great potential excited to see what he does next."
                                             }),
                                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                                 className: "tc-info",
                                                 children: [
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h6", {
                                                         className: "font-alt dark-color font-w-600",
-                                                        children: "Nancy Bayers"
+                                                        children: "anonymous"
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                        children: "Co-founder"
+                                                        children: "anonymous"
                                                     })
                                                 ]
                                             })
@@ -1267,17 +1261,17 @@ const Testiminails = ()=>{
                                         className: "media-body p-25px-l",
                                         children: [
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+                                                children: "Damario work ethic is nothing to laugh at, he does his best to produce the best"
                                             }),
                                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                                 className: "tc-info",
                                                 children: [
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h6", {
                                                         className: "font-alt dark-color font-w-600",
-                                                        children: "Nancy Bayers"
+                                                        children: "Anonymous"
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                        children: "Co-founder"
+                                                        children: "Anonymous"
                                                     })
                                                 ]
                                             })
@@ -1302,17 +1296,17 @@ const Testiminails = ()=>{
                                         className: "media-body p-25px-l",
                                         children: [
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+                                                children: "We had a project and Damario's skill put it to the next level"
                                             }),
                                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                                 className: "tc-info",
                                                 children: [
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h6", {
                                                         className: "font-alt dark-color font-w-600",
-                                                        children: "Nancy Bayers"
+                                                        children: "Anonymous"
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                        children: "Co-founder"
+                                                        children: "groupmate"
                                                     })
                                                 ]
                                             })
@@ -1337,17 +1331,17 @@ const Testiminails = ()=>{
                                         className: "media-body p-25px-l",
                                         children: [
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                children: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+                                                children: "Damario changed my life with his exceptional coding skills"
                                             }),
                                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                                 className: "tc-info",
                                                 children: [
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h6", {
                                                         className: "font-alt dark-color font-w-600",
-                                                        children: "Nancy Bayers"
+                                                        children: "Izaiah Caston"
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                        children: "Co-founder"
+                                                        children: "Classmate"
                                                     })
                                                 ]
                                             })
@@ -1395,19 +1389,13 @@ const Footer = ()=>{
                             className: "nav justify-content-center justify-content-md-start",
                             children: [
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                    href: "#",
-                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
-                                        className: "fab fa-instagram"
-                                    })
-                                }),
-                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                    href: "#",
+                                    href: "https://www.linkedin.com/in/damario-hamilton-809290287/",
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                         className: "fab fa-linkedin-in"
                                     })
                                 }),
                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("a", {
-                                    href: "#",
+                                    href: "https://github.com/DamarioCodes",
                                     children: [
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                             className: "fab fa-github"

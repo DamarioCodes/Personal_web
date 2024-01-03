@@ -15,7 +15,7 @@ const About = () => {
         <div className="row align-items-center">
           <div className="col-lg-5 m-15px-tb">
             <div className="about-me-img box-shadow">
-              <img src="static/img/about-us.jpg" alt="image" />
+              <img src="static/img/IMG_20231224_142740_825.jpg" alt="image" />
               <div className="nav social-icon">
                 <a href="https://www.linkedin.com/in/damario-hamilton-809290287/">
                   <i className="fab fa-linkedin-in" />
@@ -79,8 +79,8 @@ const About = () => {
                 </div>
               </div>
               <div className="btn-bar">
-                <a className="m-btn m-btn-theme" href="https://drive.google.com/file/d/1ue5FjpsWsVYDDI6kYSwFP0kdIxYt8ggK/view?usp=sharing">
-                  Download CV
+                <a className="m-btn m-btn-theme" href="https://drive.google.com/file/d/1ue5FjpsWsVYDDI6kYSwFP0kdIxYt8ggK/view?usp=sharing" target="_blank">
+                  View CV
                 </a>
               </div>
             </div>
